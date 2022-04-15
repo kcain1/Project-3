@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+      <meta charset="utf-8">
+        <title>Project 2</title>
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+      <body>
+         <nav class="nav" id="nav3">
+           <ul id="nav3-container">
+             <li><a href="index.html" title="home">home</a></li>
+             <li><a href="bandita.html" title="bandita">bandita</a></li>
+             <li><a href="book_list.html" title="book_list">book_list</a></li>
+           </ul>
+        </nav>
+		  <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		  <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
+          <h1>My recommended top book series I have read in the past few years</h1>
+		    <section id="red_rising">
+		      <h2> The Red rising Series</h2>
+                <p>The red rising series is one of my favorite modern science fiction series, Red Rising as a science fiction series written by Pierce Brown
+		        a New York Times bestselling author. I would describe the series as a futuristic sci-fi dystopian where the your position in society is based off a color-coded caste system
+		        Our main character Darrow is a red, a member of the lowest rank in the caste system. He works all day believing that he and his people are making a difference for the future
+		        of Mars, but he and his people have been lied to longing for justice Darrow sacrifices everything to infiltrate Gold Society, the highest in the caste system.
+		        There are currently five books in the series with a 6th on the way very soon. </p>
+		        <img src="images/red.rising.jpg" alt="red rising series cover art">
+			</section>
+			
+			<section id="Murderbot">
+			  <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		      <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
+		      <h2>The Murderbot Diaires</h2>
+		          <p>The Murderbot Diaries series by Martha Well's is about an artificial construct built to be security unit that self hacks its Governor module enabling independence.
+			      Murderbot spends it's days mostly watching soap operas and downloading media from it's feed. it could care less for real humans and prefers the ones it sees in it's soap
+			      operas though as it spends more time with other beings both artificial and human it starts to develops emotional connections as well as friendships which murderbot
+			      would describe as inconvenient. What I like about this series is Murderbot's self-deprecating humor and some very surprising touching moments which I was actually not
+			      expecting from a series about an artificial construct. Another benefit of the series is if you don't like reading long books the first four books in the series are
+			      all very short novellas that can be read within a few days with only one full novel (the fifth book in the series) in this currently ongoing 6 book series.</p>
+				  <img src="images/murderbot.jpg" alt="Murderbot diaries cover art">
+			</section>
+			
+			  <section id="green_bone">
+			    <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		        <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
+		        <h2>The Green Bone Saga</h2>
+		          <p>The Green Bone Saga by Fonda Lee is a series of three books starting with the Jade City then the Jade War and concluding with the Jade Legacy. I would describe
+			      this as a Godfather trilogy that takes place in a mythical like Hong Kong where Jade has power. Unlike The Godfather apparently each subsequent novel gets better
+			      and better. I am mostly done with book 1 (The Jade City) in the series, if you like magic and Kung Fu this is the book series for you.</p>
+			      <img src="images/greenbone.jpg" alt="Greenbone saga 3 book covers">
+			 </section>
+			   <section id="nevernight">
+			     <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		         <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
+		         <h2>The Nevernight Chronicle</h2>
+		           <p>The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff. The story follows Mia Corvere and her shadow Not-Cat as
+			        she trains within a secretive society of assassins with the goal of revege. Her tale takes place in the immersive world of Godsgrave, In a land where three suns almost never
+			        set. What I like about this series, is the very flawed world, politics, and anti-hero female protagonist. Its a dark somewhat spooky series with dark humor and interesting
+			        notes within the margins of the book giving little facts about the world the books take place in. An awesome bloody, dark, steampunky story with interesting characters.
+			        I much prefer the European covers for this series.</p>
+			        <img src="images/nevernight.jpg" alt="Nevernight books UK covers">
+			</section>
+				  
+			<section id="dresden">
+			  <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		      <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
+		      <h2>The Dresden Files</h2>
+		        <p> The Dresden Files series by Jim Butcher has been a book series I've known about in passing for a very long time I remember back being a Freshman in high school and one of my
+			    classmates did a book report on it and at the time I thought it sounded okay, but I did not give it much thought after that. Fast forward to summer of 2021 and I was looking for
+			    a new fantasy series to sink my teeth into. I had seen good things about it on Reddit and the general premise sounded pretty cool. Basically a PI wizard that works in and around
+			    the Chicagoland area. Simply put I love this series, I was a little nervous at first getting into a series that is still ongoing at 19 books in length. Part of the way through the
+			    first novel I was already hooked and the series never slows down from there. The books start off relatively short with 'low-stakes' case files. At around 200 pages in length you can
+			    easily burn through a few books in a long weekend. Dresden Files magic system is fantastic and Harry Dresden as a protagonist has a heart of gold. The secondary characters are all 
+			    fantastically written. After a handful of books in I realized that Jim Butcher had been building a massive fantasy universe under my nose the whole time. Do you like vampires? Check
+			    Dresden's got it? Do you like werewolves? Dresden's got it. Do you like fairies? Dresden's got it. Think of almost any and every fantasy creature, the Dresden Files probably has it.
+			    Even Native American skin-walkers.</p>
+                <img src="images/dresden.files.jpg" alt="Dresden Files books">
+			    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/hGp4Qf2fyDY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</section>
+			  
+			 
+</body></html>
