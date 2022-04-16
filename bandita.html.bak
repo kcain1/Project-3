@@ -10,7 +10,8 @@
           <ul id="nav2-container">
             <li><a href="index.html" title="home">home</a></li>
             <li><a href="bandita.html" title="bandita">bandita</a></li>
-            <li><a href="book_list.html" title="book_list">book_list</a></li>
+            <li><a href="book_list.html" title="book_list">book_list</a></li>'
+			<li><a href="map.html"title="map">Map</a></li>
           </ul>
        </nav>
         <h1>My Family's Dog Bandita</h1>
@@ -18,7 +19,7 @@
             <p>Here is my family's dog Bandita, I know chihuahua's have a reputation for being yappy and unfriendly, when it comes to Dita
 		    that could not be further from the truth. She is very friendly, very mild mannered, and polite. She likes to be walked and is very playful, but also likes to relax, be held,
 		    and sit on people laps</p>
-		<img class="imgs" src="images/dita.sitting.jpg" alt="bandita the tiny chihuahua dog">
+		    <img class="imgs" src="images/dita.sitting.jpg" alt="bandita the tiny chihuahua dog">
 		<section id="dita_likes">
 		  <h3>Bandita's Likes</h3>
             <p>Food of all kinds!</p>
