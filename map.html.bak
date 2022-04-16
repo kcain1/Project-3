@@ -6,7 +6,7 @@
     <title>Map</title>
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c&callback=initMap&v=weekly"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c&callback=initMap"></script>
     <script async="" src="js/googlemap.js"></script>
 </head>
 
