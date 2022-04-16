@@ -1,12 +1,12 @@
 function init() {
     var Guinness Open Gate Brewery = new google.maps.LatLng(53.343559945352546, -6.286999249211779);
-    var mapOptions = {
+    var mapOp = {
         zoom: 13,
         center: Guinness Open Gate Brewery,
 		mapTypeId: 'satellite'
 		};
 		
-    var Map = new google.maps.Map(mapOptions);
+    var Map = new google.maps.Map(mapOp);
 
     var marker = new google.maps.Marker({
         position: Guinness Open Gate Brewery,

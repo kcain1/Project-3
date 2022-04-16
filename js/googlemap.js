@@ -17,7 +17,7 @@ function init() {
 
     });
 
-    var contentString = '<h1>Guinness Open Gate Brewery</h1><p>This is one of the places I would like to go when I visit Ireland, the original brewery of one of my favorite stout beer Guinness! The rich smooth fullbodied taste of a pint in one hand and a fork of shepards pie in the other, cheers!</p>';
+    var conString = '<h1>Guinness Open Gate Brewery</h1><p>This is one of the places I would like to go when I visit Ireland, the original brewery of one of my favorite stout beer Guinness! The rich smooth fullbodied taste of a pint in one hand and a fork of shepards pie in the other, cheers!</p>';
     var infowindow = new google.maps.InfoWindow({
         content: contentString
     });
