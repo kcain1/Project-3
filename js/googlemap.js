@@ -1,4 +1,4 @@
-function initMap() {
+function initMap(){
     // centered map at Guinness brewery in dublin
     const Guinness Open Gate Brewery = {lat: 53.343559945352546, lng: -6.286999249211779};
     const map = new google.maps.Map(document.getElementById("map"), {
