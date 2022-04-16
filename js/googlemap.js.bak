@@ -23,7 +23,7 @@ function init() {
     });
 
     google.maps.event.addListener(marker, 'mouseover', function() {
-        infowindow.open(myMap, marker);
+        infowindow.open(Map, marker);
     });
 
     marker.addListener("click", toggleBounce);
