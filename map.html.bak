@@ -6,6 +6,7 @@
     <title>Map</title>
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c"></script>
     <script async="" src="js/googlemap.js"></script>
 </head>
 
@@ -19,11 +20,4 @@
              <li><a href="book_list.html" title="book_list">book_list</a></li>
              <li><a href="map.html">Map</a></li>
                 </ul>
-            </div>
-			</div>
-            <div id="map"></div>
-              <script
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c"
-                async
-              ></script>
 </body>
