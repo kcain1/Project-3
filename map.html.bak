@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Map</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"></script>
+    <script async="" src="js/googlemap.js"></script>
+</head>
+
+<body>
+    <header>
+ <body>
+         <nav class="nav" id="main-navbar">
+           <ul id="navbar-container">
+             <li><a href="index.html" title="home">home</a></li>
+             <li><a href="bandita.html" title="bandita">bandita</a></li>
+             <li><a href="book_list.html" title="book_list">book_list</a></li>
+             <li><a href="map.html">Map</a></li>
+                </ul>
+            </div>
+</body>
