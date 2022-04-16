@@ -4,7 +4,7 @@ function init() {
         zoom: 13,
         center: Guinness Open Gate Brewery,
 		mapTypeId: 'satellite'
-		});
+		};
 		
     var Map = new google.maps.Map(el, mapOptions);
 
