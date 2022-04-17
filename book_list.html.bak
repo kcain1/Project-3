@@ -2,7 +2,7 @@
  <html lang="en">
    <head>
       <meta charset="utf-8">
-        <title>Project 2</title>
+        <title>Book List</title>
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
     </head>
