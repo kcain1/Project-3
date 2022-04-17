@@ -100,7 +100,7 @@ h3 {
  #nav3-container li:hover {
      background-color: rgb(231, 91, 36);
 	 text-align: center;
-	 font-family: 'verdana' sans-serif;
+	 font-family: 'verdana', sans-serif;
  }
  
  #navbar-container li a,
@@ -213,4 +213,13 @@ text-decoration:none;
     height: 14%;
     width: 14%;
     background-repeat: repeat-x;
+}
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 5px 5px red;
+	border: 5px solid red;
+	text-align: center;
 }
