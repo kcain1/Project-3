@@ -10,15 +10,14 @@
 </head>
 
 <body>
-    <header>
- <body>
-  <nav class="nav" id="main-navbar">
-    <ul id="navbar-container">
-    <li><a href="index.html" title="home">home</a></li>
-    <li><a href="bandita.html" title="bandita">bandita</a></li>
-    <li><a href="book_list.html" title="book_list">book_list</a></li>
-    <li><a href="map.html">Map</a></li>
-    </ul>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c&callback=initMap"></script>
-    <script async="" src="js/googlemap.js"></script>
-</body>
+   <nav class="nav" id="main-navbar">
+   <ul id="navbar-container">
+   <li><a href="index.html" title="home">home</a></li>
+   <li><a href="bandita.html" title="bandita">bandita</a></li>
+   <li><a href="book_list.html" title="book_list">book_list</a></li>
+   <li><a href="map.html">Map</a></li>
+   </ul>
+   </nav>
+   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c&callback=initMap"></script>
+   <script async="" src="js/googlemap.js"></script>
+</body></html>
