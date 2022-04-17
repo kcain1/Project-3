@@ -18,6 +18,5 @@
    <li><a href="map.html">Map</a></li>
    </ul>
    </nav>
-   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtv09fiJss-TPsLUVJe_lg2eNXAXDnh9c&callback=initMap"></script>
-   <script async="" src="js/googlemap.js"></script>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.995017847848!2d-6.289182184311162!3d53.343345379978324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c3a12bbd59d%3A0xecb01120f7644b0f!2sGuinness%20Open%20Gate%20Brewery!5e0!3m2!1sen!2sus!4v1650235746973!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </body></html>
