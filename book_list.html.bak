@@ -81,7 +81,7 @@
 			    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/hGp4Qf2fyDY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</section>
 			
-		    <div>
+		    <div class="back">
               <a href="javascript:history.go(-1);">previous page</a>
             </div>
 		   
