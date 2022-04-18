@@ -221,3 +221,15 @@ text-decoration:none;
 	border: 5px solid red;
 	text-align: center;
 }
+
+@media screen and (max-width: 680px)  { 
+
+H2{
+	font-size: 12px;
+
+}
+} 
+
+.map {
+	text-align: center;
+}

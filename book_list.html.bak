@@ -80,6 +80,7 @@
                 <img src="images/dresden.files.jpg" alt="Dresden Files books">
 			    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/hGp4Qf2fyDY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</section>
+			<div><script>document.write(new Date().getFullYear())</script>Kevin Cain</div>
 			  
 			 
 </body></html>
