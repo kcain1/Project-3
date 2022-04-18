@@ -71,12 +71,6 @@ h3 {
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     position: relative;
  }
- float: left;
-	  color: black;
-	  text-align: center;
-	  padding: 14px 16px;
-	  text-decoration: none;
-	  font-size: 20px;
  
  #navbar-container ul,
  #nav2-container ul,
@@ -244,4 +238,5 @@ H2{
 	
 	text-align: center;
 }
+
 	
