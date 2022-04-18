@@ -230,6 +230,6 @@ H2{
 }
 } 
 
-.map {
+.copy {
 	text-align: center;
 }
