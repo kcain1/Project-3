@@ -49,6 +49,6 @@
         </div>
 		   
 		   <div class="copy">
-		     <script>document.write(new Date().getFullYear())</script>&nbs;Kevin Cain
+		     <script>document.write(new Date().getFullYear())</script>&nbsp;Kevin Cain
 		   </div>
 </body></html>
